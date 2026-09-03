@@ -19,4 +19,3 @@ spec:
           image: nikitakank2/demo-app:latest
           ports:
             - containerPort: 5000
-EOF
